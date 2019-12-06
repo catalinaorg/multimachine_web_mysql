@@ -15,4 +15,5 @@ This repo creates multi machines _web01_ _web02_ and _mysql_ based on a single V
 ` $ vagrant up`
 
 * stop the running machines and destroy all resources that were created during the machine creation process
+
 ` $ vagrant destroy`
